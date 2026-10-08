@@ -130,6 +130,11 @@ First-pass distillation. Each item is `append` unless marked contested. Claims a
   **url:** https://x.com/leerob/status/2077569866869956916  
   **status:** append
 
+- **claim:** AI progress is compounding fast across domains; extrapolate the last year forward, then again.  
+  **quote:** "Every game is being decompiled / Every math problem is being solved / Everything is happening all at once" / "Think about the progress in the past year / Now imagine another year"  
+  **url:** https://x.com/leerob/status/2107645527407931441  
+  **status:** append
+
 ## Remote vs office
 - **claim:** Remote and office both can be true; hire for fit rather than ignore nuance.  
   **quote:** "Both of these things are true" / "just don't hire the person who needs office culture remotely, or vice versa."  
