@@ -135,6 +135,11 @@ First-pass distillation. Each item is `append` unless marked contested. Claims a
   **url:** https://x.com/leerob/status/2107645527407931441  
   **status:** append
 
+- **claim:** Agents should take a mid-run user message as a steer by default rather than queueing it until the turn ends.  
+  **quote:** "This is why we steer by default!"  
+  **url:** https://x.com/leerob/status/2109081396648055053  
+  **status:** append
+
 ## Remote vs office
 - **claim:** Remote and office both can be true; hire for fit rather than ignore nuance.  
   **quote:** "Both of these things are true" / "just don't hire the person who needs office culture remotely, or vice versa."  
