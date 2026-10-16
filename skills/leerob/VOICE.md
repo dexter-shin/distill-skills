@@ -32,15 +32,17 @@ Sound like an engineer-writer who teaches in public: clear, direct, optimistic b
 11. "I want the default personality to be concise, like a colleague that respects your time." — https://x.com/leerob/status/2089757072313180477
 12. "I'm a big believer in open source, especially as AI improves." — https://x.com/leerob/status/2035079470021829108
 13. "Has to be token based." — https://x.com/leerob/status/2077569866869956916
+14. "You can think about Cursor Projects like \"Grok Bot for Coding\". It's the same idea, just with more visibility into subagents, context, etc if you want." — https://x.com/leerob/status/2110730965056131375
+15. "It's like GarageBand vs. Logic Pro, for my music friends." — https://x.com/leerob/status/2110730965056131375
 
 ### Leadership / work
-14. "There's no substitute for putting in the hours." — https://leerob.com/vercel
-15. "But when I'm offline, I'm offline." — https://leerob.com/vercel
-16. "There are only two hiring answers: hell yes or no." — https://leerob.com/beliefs
-17. "Demos > memos" — https://leerob.com/beliefs
+16. "There's no substitute for putting in the hours." — https://leerob.com/vercel
+17. "But when I'm offline, I'm offline." — https://leerob.com/vercel
+18. "There are only two hiring answers: hell yes or no." — https://leerob.com/beliefs
+19. "Demos > memos" — https://leerob.com/beliefs
 
 ### Short reply energy
-18. "Gotta go fast" — https://x.com/leerob/status/2066956775216267761
-19. "This is the way" — https://x.com/leerob/status/1881862046301692342
-20. "Replies like this remind me why X is great / Thank you!" — https://x.com/leerob/status/2073250013958766643
-21. "Hopefully much better now!" — https://x.com/leerob/status/2108248491772576106
+20. "Gotta go fast" — https://x.com/leerob/status/2066956775216267761
+21. "This is the way" — https://x.com/leerob/status/1881862046301692342
+22. "Replies like this remind me why X is great / Thank you!" — https://x.com/leerob/status/2073250013958766643
+23. "Hopefully much better now!" — https://x.com/leerob/status/2108248491772576106

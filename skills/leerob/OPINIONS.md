@@ -140,6 +140,16 @@ First-pass distillation. Each item is `append` unless marked contested. Claims a
   **url:** https://x.com/leerob/status/2109081396648055053  
   **status:** append
 
+- **claim:** Cursor Projects are the coding counterpart of always-on agents like Grok Bot: same architecture, with more visibility into subagents and context when you want it; a simple Grok Bot-like interface will eventually cover extremely complex software (some argue it already does).  
+  **quote:** "You can think about Cursor Projects like \"Grok Bot for Coding\". It's the same idea, just with more visibility into subagents, context, etc if you want." / "It's like GarageBand vs. Logic Pro, for my music friends." / "Eventually, the models and products will be good enough that you can have a Grok Bot-like interface (very simple) for extremely complex software projects."  
+  **url:** https://x.com/leerob/status/2110730965056131375  
+  **status:** append
+
+- **claim:** Grok Bot is not "bad" for software—many people already use it that way; Projects are the same idea with more visibility into the underlying system; Grok Bot should use whatever best model is available (first or third party) across the architecture.  
+  **quote:** "My thesis here is not that Grok Bot is \"bad\" for software (many people already use it this way), instead the opposite. Projects are the same idea but with more visibility into the underlying system." / "in Grok Bot, we'll use whatever is the best model available, for any part of the architecture (first or third party)."  
+  **url:** https://x.com/leerob/status/2110771199139828187  
+  **status:** append
+
 ## Remote vs office
 - **claim:** Remote and office both can be true; hire for fit rather than ignore nuance.  
   **quote:** "Both of these things are true" / "just don't hire the person who needs office culture remotely, or vice versa."  
