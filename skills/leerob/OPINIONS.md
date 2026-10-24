@@ -150,6 +150,16 @@ First-pass distillation. Each item is `append` unless marked contested. Claims a
   **url:** https://x.com/leerob/status/2110771199139828187  
   **status:** append
 
+- **claim:** For synchronous prompting most frontier models feel similar, so latency matters more; the real quality gaps show up in background and long-running work, which is why Grok Bot mixes models per task for the best UX.  
+  **quote:** "It's true that for sync prompting, most frontier models feel similar (latency is more important). The bigger quality differences come from background/long running work." / "Bot now uses a combination of models (e.g. Opus 5.5 or others), whatever it needs to provide the best UX!"  
+  **url:** https://x.com/leerob/status/2112226546627060149  
+  **status:** append
+
+- **claim:** Don't spin up a separate bot per task or per seat by default: one bot you keep chatting with usually works, and bots that need to coordinate should share a common store (a spreadsheet or Notion DB) rather than multiplying.  
+  **quote:** "Is there a reason for 4 separate bots versus 1 if they are all going to write to the same database? If you give them all a spreadsheet or Notion DB for example, they should be able to use it together." / "You don't necessarily have to create new bots for each task."  
+  **url:** https://x.com/leerob/status/2113809302112833995  
+  **status:** append
+
 ## Remote vs office
 - **claim:** Remote and office both can be true; hire for fit rather than ignore nuance.  
   **quote:** "Both of these things are true" / "just don't hire the person who needs office culture remotely, or vice versa."  
